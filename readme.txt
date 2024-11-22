@@ -43,3 +43,10 @@ Everything up-to-date
 
 ashok@Animo MINGW64 /d/demoproject (master)
 $
+
+
+once above steps done do bellow
+    : do changes on code and left go to 3rd opetion
+    : add that file and write a message
+    : press commit
+    : it ll update on 
