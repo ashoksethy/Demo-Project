@@ -48,5 +48,5 @@ $
 once above steps done do bellow
     : do changes on code and left go to 3rd opetion
     : add that file and write a message
-    : press commit
+    : press commit and push
     : it ll update on 
