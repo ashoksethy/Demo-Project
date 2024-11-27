@@ -50,4 +50,5 @@ once above steps done do bellow
     : add that file and write a message
     : press commit and push
     : it ll update on live server
-    : 
+
+Q: what is flot in css and how many types of flot is there
